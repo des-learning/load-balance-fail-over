@@ -42,3 +42,9 @@ ada di directory public_html0 dan public_html1.
 
 Konfigurasi nginx berada di file default.conf. Berisikan konfigurasi url dan
 deklarasi server backend.
+
+## mematikan service
+
+Untuk mematikan seluruh service:
+
+`docker-compose down`
